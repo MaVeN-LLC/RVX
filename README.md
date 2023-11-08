@@ -16,10 +16,10 @@ Here:  https://MaVeN-LLC.github.io/RVX/
 - DARK MODE
 - PIP - PICTURE IN PICTURE MODE
 - DOWNLOAD VIDEOS ON Seal, NewPipe (+can be Sponsorblock modified), YTDL
-- 
+
 ## Download
 Go to [Releases page](https://github.com/MaVeN-LLC/RVX/releases)
-- !REQUIRED, DOWNLOAD MICROG TO MAKE THE APP WORKS - ANDROID 9+ - Download here: https://github.com/WSTxda/MicroG-RE/releases/download/3.4/MicroG-RE-universal.apk - This NicroG app is modernized for modern use, better experience, better sign in.
+- !REQUIRED, DOWNLOAD MICROG TO MAKE THE APP WORKS - ANDROID 9+ - Download here: [microg-modern.apk](https://github.com/WSTxda/MicroG-RE/releases/download/3.4/MicroG-RE-universal.apk) - This NicroG app is modified and has clean UI for modern use, better experience, better sign in.
 
 ## APP;RVX
 ### Bug / Feature Request for ReVanced Extended
