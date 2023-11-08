@@ -17,7 +17,7 @@ Go to [Releases page](https://github.com/inotia00/ReVanced_Extended/releases)
 ## APP;RVX
 ### Bug / Feature Request for ReVanced Extended
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/inotia00/ReVanced_Extended/issues/new) by including your issue and logs.txt if possible.
+If you find a bug (), kindly open an issue [here](https://github.com/inotia00/ReVanced_Extended/issues/new) by including your issue and logs.txt if possible.
 
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/inotia00/ReVanced_Extended/issues/new). Please include sample queries and their corresponding results.
 
