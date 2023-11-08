@@ -1,18 +1,25 @@
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
+# ![Image](https://revancedio.com/wp-content/uploads/2023/01/Add-a-subheading-3-compressed-768x432.jpg)
 # RVX
 <table>
 <tr>
 <td>
-  A website/repo for installing the latest non-root YouTube ReVanced Extended via APK - Stable/Beta Versions</td>
+  A website/repo for installing the latest non-root YouTube ReVanced Extended & YT-M via APK  -Stable/Beta Versions</td>
 </tr>
 </table>
 
 
-## Note: Official Website
+## Note: Official Website/Features
 Here:  https://MaVeN-LLC.github.io/RVX/
-
+# FEATURES
+- Material You Support
+- NO ADS
+- DARK MODE
+- PIP - PICTURE IN PICTURE MODE
+- DOWNLOAD VIDEOS ON Seal, NewPipe (+can be Sponsorblock modified), YTDL
+- 
 ## Download
 Go to [Releases page](https://github.com/inotia00/ReVanced_Extended/releases)
+- !REQUIRED, DOWNLOAD MICROG TO MAKE THE APP WORKS - ANDROID 9+ - Download here: https://github.com/WSTxda/MicroG-RE/releases/download/3.4/MicroG-RE-universal.apk - This NicroG app is modernized for modern use, better experience, better sign in.
 
 ## APP;RVX
 ### Bug / Feature Request for ReVanced Extended
