@@ -1,4 +1,4 @@
-# ![Image]([https://revancedio.com/wp-content/uploads/2023/01/Add-a-subheading-3-compressed-768x432.jpg](https://github.com/ReVanced/revanced-manager/raw/main/assets/revanced-headline/revanced-headline-vertical-dark.svg))
+# ![Image](https://github.com/ReVanced/revanced-manager/raw/main/assets/revanced-headline/revanced-headline-vertical-dark.svg))
 # RVX
 <table>
 <tr>
