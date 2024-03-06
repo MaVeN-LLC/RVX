@@ -3,11 +3,11 @@
     <source
       width="256px"
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/ReVanced/revanced-managerassets/revanced-headline/revanced-headline-vertical-dark.svg"
+      srcset="https://github.com/ReVanced/blob/main/revanced-managerassets/revanced-headline/revanced-headline-vertical-dark.svg"
     >
     <img 
       width="256px"
-      src="https://github.com/ReVanced/revanced-managerassets/revanced-headline/revanced-headline-vertical-light.svg"
+      src="https://github.com/ReVanced/blob/main/revanced-managerassets/revanced-headline/revanced-headline-vertical-light.svg"
     >
   </picture>
   <br>
